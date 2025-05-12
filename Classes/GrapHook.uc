@@ -174,8 +174,8 @@ defaultproperties
 {
     GlowColor(0)=Class'HookGlow'
     GlowColor(1)=Class'HookBlue'
-    Physics=6
-    DrawType=2
+    Physics=PHYS_Projectile
+    DrawType=DT_Mesh
     Mesh=LodMesh'UnrealShare.GrenadeM'
     SoundRadius=130
     SoundVolume=255
